@@ -1,0 +1,21 @@
+.button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: #FAF0DC;
+  display: flex;
+  align-items: center;
+}
+.badge {
+  position: absolute;
+  display: inline-block;
+  color:#353c96;
+  margin-left: 1.1rem;
+  text-align: center;
+
+  padding: 2px;
+  text-align: center;
+
+margin-top: 0.7rem;
+  font-weight: 600;
+}

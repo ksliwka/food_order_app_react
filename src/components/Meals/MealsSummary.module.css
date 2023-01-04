@@ -1,0 +1,19 @@
+.summary {
+    text-align: center;
+    max-width: 50rem;
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+    position: relative;
+    background-color: #0B4141;
+    color: #FAF0DC;
+    border-radius: 14px;
+    padding: 1rem;
+
+}
+
+.summary h2 {
+
+  font-size: 2rem;
+  margin-top: 0;
+}
